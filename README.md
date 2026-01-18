@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm an aspiring developer learning C# and Python!</h1>
+<h1 align="center">Hi there , I'm an aspiring developer learning C# and Python!</h1>
 
 <p align="center">
   🌱 Currently learning <strong>C# and Py</strong> and building my skills every day.
