@@ -14,4 +14,4 @@
   Plan on learning Reverse engineering, Malware development, and Game development.
 </p>
 
-[![HashedByUser's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashedByUser)](https://github.com/HashedByUser/github-readme-stats)
+[![HashedByUser's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashedByUser)](https://github.com/anuraghazra/github-readme-stats)
