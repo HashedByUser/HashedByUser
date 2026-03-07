@@ -13,3 +13,5 @@
   Exploring the world of coding, one project at a time.
   Plan on learning Reverse engineering, Malware development, and Game development.
 </p>
+
+[![HashedByUser's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashedByUser)](https://github.com/HashedByUser/github-readme-stats)
