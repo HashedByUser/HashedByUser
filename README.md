@@ -14,3 +14,5 @@
   Plan on learning Reverse engineering, Malware development, and Game development.
 </p>
 
+![](https://raw.githubusercontent.com/HashedByUser/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/HashedByUser/github-stats/master/generated/overview.svg#gh-light-mode-only)
