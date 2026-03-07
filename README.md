@@ -1,7 +1,7 @@
 <h1 align="center">Hi there , I'm an aspiring developer learning C# and Python!</h1>
 
 <p align="center">
-  🌱 Currently learning <strong>C# and Py</strong> and building my skills every day.
+   Currently learning <strong>C# and Py</strong> and building my skills every day. 🌱
 </p>
 
 <p align="center">
@@ -10,5 +10,6 @@
 </p>
 
 <p align="center">
-  🚀 Exploring the world of coding, one project at a time.
+  Exploring the world of coding, one project at a time.
+  Plan on learning Reverse engineering, Malware development, and Game development.
 </p>
